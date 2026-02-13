@@ -54,7 +54,7 @@
 })();
 */
 const messages = [
-    "Ты уверена?",
+    "Ty Uverena?",
     "Really sure??",
     "Are you positive?",
     "Pookie please...",

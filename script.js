@@ -30,8 +30,8 @@
         setInterval(() => {
             let entropy = Math.random();
             if (entropy < 0.2) {
-                let btnA = document.querySelector('.no-button');
-                let btnB = document.querySelector('.yes-button');
+                let btnA = document.querySelector('.нет-button');
+                let btnB = document.querySelector('.ДА-button');
                 if (btnA && btnB) {
                     [btnA.style.position, btnB.style.position] = [btnB.style.position, btnA.style.position];
                 }

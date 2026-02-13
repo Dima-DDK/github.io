@@ -14,7 +14,7 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
   document.body.innerHTML = `
     <h1>Ура! ❤️ Ты сказала Да!</h1>
-    <p>Спасибо — ты самый лучший человек!</p>
+    <p>Ура💕!</p>
   `;
 });
 
